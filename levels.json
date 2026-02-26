@@ -1,0 +1,10 @@
+{
+  "generated_utc": "2026-02-26T21:30:00Z",
+  "spot_real": 512.34,
+  "spot_source": "TEST",
+  "levels": {
+    "CALL_WALL": 520.0,
+    "PUT_WALL": 505.0,
+    "ZERO_GAMMA": 512.0
+  }
+}
